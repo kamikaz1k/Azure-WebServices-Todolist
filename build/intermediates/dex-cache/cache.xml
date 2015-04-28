@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Dev_Projects\AndroidstudioProjects\ZUMOAPPNAME\app\libs\mobileservices-2.0.1-beta.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f225d9c34f93107ee9f5e53f329ce3bb0438545c">
+        <dex dex="D:\Dev_Projects\AndroidstudioProjects\ZUMOAPPNAME\app\build\intermediates\pre-dexed\debug\mobileservices-2.0.1-beta-6e4ded9131164f86e8200b49f90b45dd8b2ebb15.jar" />
+    </item>
+    <item
+        jar="D:\Users\kdandang\android-sdks\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Dev_Projects\AndroidstudioProjects\ZUMOAPPNAME\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-88fa45660996acbbbc955d6e379e5e9c6c603a44.jar" />
+    </item>
+    <item
+        jar="D:\Users\kdandang\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\17.0\9c6ef172e8de35fd8d4d8783e4821e57cdef7445\guava-17.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="D:\Dev_Projects\AndroidstudioProjects\ZUMOAPPNAME\app\build\intermediates\pre-dexed\debug\guava-17.0-fbdf10f3dc61f23dedde93612079b0b0632cbbe1.jar" />
+    </item>
+    <item
+        jar="D:\Users\kdandang\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.2\1f96456ca233dec780aa224bff076d8e8bca3908\gson-2.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="D:\Dev_Projects\AndroidstudioProjects\ZUMOAPPNAME\app\build\intermediates\pre-dexed\debug\gson-2.2.2-0b779f8daa2bc41733a6b641790c11b953247534.jar" />
+    </item>
+    <item
+        jar="D:\Dev_Projects\AndroidstudioProjects\ZUMOAPPNAME\app\libs\mobileservices-2.0.1-beta-sources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ebb98da7aa21da91336f4c09f4383242877068a5">
+        <dex dex="D:\Dev_Projects\AndroidstudioProjects\ZUMOAPPNAME\app\build\intermediates\pre-dexed\debug\mobileservices-2.0.1-beta-sources-58ba7923e83517e49de9e9a87640bbfdcdcc9b07.jar" />
+    </item>
+    <item
+        jar="D:\Dev_Projects\AndroidstudioProjects\ZUMOAPPNAME\app\libs\mobileservices-2.0.1-beta-javadoc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b76c16589dbfd546bc92a5e2cce2ced0e962de3">
+        <dex dex="D:\Dev_Projects\AndroidstudioProjects\ZUMOAPPNAME\app\build\intermediates\pre-dexed\debug\mobileservices-2.0.1-beta-javadoc-e4e339f519e686e3241cbeebc51b3b55a72e4dc4.jar" />
+    </item>
+
+</items>
