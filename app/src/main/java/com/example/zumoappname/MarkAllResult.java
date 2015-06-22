@@ -1,7 +1,15 @@
 package com.example.zumoappname;
+import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by kdandang on 5/18/2015.
- */
 public class MarkAllResult {
+    @SerializedName("count")
+    public int mCount;
+
+    public int getCount() {
+        return mCount;
+    }
+
+    public void setCount(int count) {
+        this.mCount = count;
+    }
 }

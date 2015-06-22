@@ -26,10 +26,10 @@
             android:layout_width="28dp"
             android:layout_height="28dp" />
     </LinearLayout>
-    
-     <LinearLayout
-        android:layout_width="match_parent" 
-        android:layout_height="wrap_content" 
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:background="#71BCFA"
         android:padding="6dip"  >
 
@@ -42,7 +42,15 @@
             android:hint="@string/add_textbox_hint" >
 
             <requestFocus />
-       </EditText>
+        </EditText>
+
+    </LinearLayout>
+
+     <LinearLayout
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content" 
+        android:background="#71BCFA"
+        android:padding="6dip"  >
 
         <Button
             android:id="@+id/buttonAddToDo"
@@ -50,6 +58,20 @@
             android:layout_height="wrap_content"
             android:onClick="addItem"
             android:text="@string/add_button_text" />
+
+        <Button
+            android:id="@+id/buttonCompleteItem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="completeItem"
+            android:text="@string/complete_button_text" />
+
+         <Button
+             android:id="@+id/buttonAddUser"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:onClick="addUserToUserTable"
+             android:text="Add User" />
 
     </LinearLayout>
 

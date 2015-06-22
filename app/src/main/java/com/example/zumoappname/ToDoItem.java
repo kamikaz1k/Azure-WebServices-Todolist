@@ -6,16 +6,16 @@ package com.example.zumoappname;
 public class ToDoItem {
 
 	/**
-	 * Item text
-	 */
-	@com.google.gson.annotations.SerializedName("text")
-	private String mText;
+     * Item text
+     */
+    @com.google.gson.annotations.SerializedName("text")
+    private String mText;
 
-	/**
-	 * Item Id
-	 */
-	@com.google.gson.annotations.SerializedName("id")
-	private String mId;
+    /**
+     * Item Id
+     */
+    @com.google.gson.annotations.SerializedName("id")
+    private String mId;
 
 	/**
 	 * Indicates if the item is completed
